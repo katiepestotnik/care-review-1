@@ -36,6 +36,6 @@ const myDog = {
 }
 
 function calculate(num1, num2, operator){
-    let result
+    let result;
 }
 console.log(calculate(2, 4, 'add'))
