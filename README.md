@@ -17,7 +17,7 @@
 <details>
     <summary>3. Given the above file structure how can I copy copy.js into the directory of html-css from ~/Desktop/care/review</summary>
 
-        cp copy.js html-css/copy.js
+        cp copy.js html-css/
 </details><br>
 
 ## JS Basics
@@ -83,7 +83,7 @@ function calculate(num1, num2, operator){
 console.log(calculate(2, 4, 'add'))
 ```
 1. What are the parameters of this function?
-2. What are the arguments of this function?
+2. What are the arguments in the example above?
 3. What is the purpose of `return`
 4. Complete this function so that when the function runs it returns a result of 8. 
 5. If I console.log(result) outside of the function, what would you expect and why?
