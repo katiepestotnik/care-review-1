@@ -15,9 +15,9 @@
         mv html-css/styles.css html-css/styles/
 </details><br>
 <details>
-    <summary>3. Given the above file structure how can I copy copy.js into the directory of html-css from ~/Desktop/care/review</summary>
+    <summary>3. Given the above file structure how can I copy script.js into the directory of html-css/js from ~/Desktop/care/review</summary>
 
-        cp copy.js html-css/
+        cp script.js html-css/js
 </details><br>
 
 ## JS Basics
