@@ -3,7 +3,7 @@
 # Care Review
 
 ## CLI
-![file-structure](./assets/file-structure.png)
+![file-structure](./assets/terminal-file-structure.png)
 <details>
     <summary>1. What command is used for showing all files and directories including hidden files from the current working directory?</summary>
 
