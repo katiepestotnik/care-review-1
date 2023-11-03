@@ -23,7 +23,7 @@ const movies = ['Pan\'s Labyrinth', 'Crimson Peak', 'Hellboy']
 const myDog = {
     name: 'Klondike',
     breed: 'Golden Retriever',
-    activies: ['fetching the ball', 'hiking'],
+    activities: ['fetching the ball', 'hiking'],
     age: 6
 }
 //1.  Access the string of hiking in the myDog object.
@@ -34,7 +34,7 @@ const myDog = {
 function calculate(num1, num2, operator){
     let result
 }
-console.log(calculate(2, 4, 'add'))
+
 //1.  What are the parameters of this function?
 //2.  What are the arguments in the example above?
 //3.  What is the purpose of return
