@@ -10,12 +10,12 @@
         ls -a
 </details><br>
 <details>
-    <summary>2. Given the above file structure how can I move styles.css into the directory of styles from ~/Desktop/care/review</summary>
+    <summary>2. Given the above file structure how can I move styles.css into the directory of styles from ~/Desktop/care/terminal-commands</summary>
 
         mv html-css/styles.css html-css/styles/
 </details><br>
 <details>
-    <summary>3. Given the above file structure how can I copy script.js into the directory of html-css/js from ~/Desktop/care/review</summary>
+    <summary>3. Given the above file structure how can I copy script.js into the directory of html-css/js from ~/Desktop/care/terminal-commands</summary>
 
         cp script.js html-css/js
 </details><br>
@@ -55,11 +55,11 @@ const foods = ['pizza', 'ice cream', 'salad']
 
 ## Arrays
 ```
-const foods = ['pizza', 'ice cream', 'salad']
+const movies = ['Pan\'s Labyrinth', 'Crimson Peak', 'Hellboy']
 ```
 1. Access the last element in the above array.
-2. Change pizza to hamburger.
-3. Add the string of 'cake' to the front of the array with an array method.
+2. Change Crimson Peak to your favorite movie.
+3. Add the string of 'Ghost' to the front of the array with an array method.
 4. Loop through the array with the forEach() array method. 
 
 ## Objects
@@ -68,7 +68,7 @@ const myDog = {
     name: 'Klondike',
     breed: 'Goldent Retriever',
     activies: ['fetching the ball', 'hiking'],
-    age: 6.5
+    age: 6
 }
 ```
 1. Access the string of hiking in the myDog object.
